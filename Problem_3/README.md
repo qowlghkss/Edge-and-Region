@@ -117,7 +117,7 @@ conda deactivate
 
 ## 4. 중간 결과 (Intermediate Results)
 
-### 터미널 출력 로그 (예상)
+### 터미널 출력 로그
 
 ![터미널출력로그](results/3week_third.png)
 

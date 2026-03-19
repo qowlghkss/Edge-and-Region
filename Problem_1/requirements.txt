@@ -1,0 +1,6 @@
+# Problem 1: 소벨 에지 검출 및 결과 시각화
+# 동일한 전체 requirements.txt를 사용합니다.
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0

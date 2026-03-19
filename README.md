@@ -1,7 +1,6 @@
 # L03 Edge and Region - Homework
 
-> **과목**: 컴퓨터비전 (Computer Vision)  
-> **교수**: 서정일 | **대학**: 동아대학교 컴퓨터AI공학부  
+
 > **주차**: L03 Edge and Region
 
 ---
